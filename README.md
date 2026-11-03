@@ -1,5 +1,11 @@
 # From Figma Designer to AI-Native Design Lead
 
+> **Canonical location:** this course now lives in [learning-library](https://github.com/vygantas-meskauskis/learning-library/tree/main/courses/ai-native-design-lead-course).
+>
+> **[Read AI-Native Design Lead](https://vygantas-meskauskis.github.io/learning-library/courses/ai-native-design-lead-course/)** or [choose another course](https://vygantas-meskauskis.github.io/learning-library/).
+>
+> This repository is archived to preserve its original content and Git history. All future edits belong in `vygantas-meskauskis/learning-library`.
+
 A complete, practical, self-paced course (October 2026) for UX/UI designers moving into a lead role that covers design, AI tooling and design systems.
 
 🌐 **Read it online:** https://vygantas-meskauskis.github.io/ai-native-design-lead-course/
